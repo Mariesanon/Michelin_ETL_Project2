@@ -33,7 +33,10 @@ Load data with PostgreSQL.
 ### Observation
 This ptoject was build by following below architecture:
 
+<img width="960" alt="Picture1" src="https://user-images.githubusercontent.com/102114721/173193721-3a283f7c-8e35-4e30-89ce-67a1bea9af2c.png">
+
 
 
 
 ## Conclusions:
+
