@@ -35,8 +35,16 @@ This ptoject was build by following below architecture:
 
 <img width="960" alt="Picture1" src="https://user-images.githubusercontent.com/102114721/173193721-3a283f7c-8e35-4e30-89ce-67a1bea9af2c.png">
 
+#### ETL Process Visualization & Narrative
+
+<img width="580" alt="Screen Shot 2022-06-11 at 11 21 00 AM" src="https://user-images.githubusercontent.com/102114721/173193923-7929a843-08b8-42eb-a675-ae5fa925eaed.png">
+
+
+#### Project Limitations	
+The project focused on Michelin Star restaurants located in the United States of America.  Due to the limitation of data sets available in Kaggle, whereby only 2019 affordability rating data set is available, the recently awarded restaurants in 2021 do not have a corresponding affordability data and dropped for the purpose of the affordability  stratification analysis.   The ETL data integration process would have been more useful if the 2021 affordability rating data source is available and used for the project.![image](https://user-images.githubusercontent.com/102114721/173193943-ee10c7af-41d2-4ea2-836e-182ba333e2f0.png)
+
 
 
 
 ## Conclusions:
-
+Based on our data we came to the conclusion that there's not many restaurants in the US with high prices. 
