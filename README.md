@@ -45,5 +45,4 @@ The project focused on Michelin Star restaurants located in the United States of
 
 
 
-## Conclusions:
-Based on our data we came to the conclusion that there's not many restaurants in the US with high prices. 
+
