@@ -42,7 +42,7 @@ This project was build using below architecture:
 
 
 #### Project Limitations	
-The project focused on Michelin Star restaurants located in the United States of America.  Due to the limitation of data sets available in Kaggle, whereby only 2019 affordability rating. data set is available, the recently awarded restaurants in 2021 do not have a corresponding affordability data.   The ETL data integration process would have been more useful if the 2021 affordability rating data source is available and used for the project.
+The project focused on Michelin Star restaurants located in the United States of America.  Due to the limitation of data sets available in Kaggle, whereby only 2019 affordability rating data set is available, the recently awarded restaurants in 2021 do not have a corresponding affordability data.   The ETL data integration process would have been more useful if the 2021 affordability rating data source is available and used for the project.
 
 
 
